@@ -1,0 +1,73 @@
+/* ------------ Custom Styles ------------ */
+
+.btn-info, .bg-info {
+    background: linear-gradient(45deg, darkslategray, cornflowerblue);
+}
+
+.btn-primary, .bg-primary {
+    background: linear-gradient(45deg, darkslategray, blueviolet);
+}
+
+.btn-secondary, .bg-secondary {
+    background: linear-gradient(45deg, darkslategray, violet);
+}
+
+.btn-success, .bg-success {
+    background: linear-gradient(45deg, darkslategray, limegreen);
+}
+
+.btn-warning, .bg-warning {
+    background: linear-gradient(45deg, darkslategray, orange);
+}
+
+.btn-danger, .bg-danger {
+    background: linear-gradient(45deg, darkslategray, orangered);
+}
+
+.btn-dark, .bg-dark {
+    background: linear-gradient(45deg, darkslategray, lightgray);
+}
+
+.btn-black .bg-black {
+    background: linear-gradient(45deg, darkslategray, black);
+}
+
+.btn-light, .bg-light {
+    background: linear-gradient(45deg, darkslategray, rgb(245, 215, 215));
+}
+
+.bg-light-blue, .bg-light-blue:focus {
+    background-color: lightblue;
+    color: white;
+}
+/* a {
+    text-decoration: none;
+    color: white;
+} */
+
+.progress {
+    height: 35px;
+    border-radius: 30px;
+    box-shadow:  6px 6px gray;
+}
+
+.progress-bar {
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.table {
+    box-shadow: 0 6px 6px gray;
+}
+
+.bg-light-red {
+    background-color: lightcoral;
+}
+
+.bg-light-green {
+    background-color: lavenderblush;
+}
+
+h1 {
+    text-align: center;
+}
